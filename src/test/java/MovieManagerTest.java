@@ -83,6 +83,6 @@ public class MovieManagerTest {
 
             Assertions.assertArrayEquals(expected, actual);
         }
-        
+
     }
 
